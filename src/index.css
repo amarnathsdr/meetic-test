@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  @apply bg-pink-100;
+}
+
+body {
+  @apply flex justify-center m-12 
+}
+
